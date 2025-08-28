@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "external_product_name": "ケーブル IV1.25sq 黄",
+      "external_product_code": "IV125SQY",
+      "quantities": 2
+    },
+    {
+      "external_product_name": "ケーブル KIV1.25sq 青",
+      "external_product_code": "KIV125SQB",
+      "quantities": 2
+    },
+    {
+      "external_product_name": "ケーブル KIV0.75sq 青",
+      "external_product_code": "KIV075SQB",
+      "quantities": 2
+    },
+    {
+      "external_product_name": "ケーブル HC-5L2",
+      "external_product_code": "HC5L2",
+      "quantities": 1
+    }
+  ]
+}
