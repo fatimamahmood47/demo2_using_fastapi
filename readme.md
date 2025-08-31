@@ -1,5 +1,9 @@
 # About this repo
 - implementation of phase 1, focused on backend
+  
+# Please fellow below mentioned notion for running and udderstanding the demo2 
+
+https://www.notion.so/Demo2-Product-Code-Conversion-25b4fefb6d1780168196c729c5251cb8
 
 # Goal of Project
 - we have two entities :
