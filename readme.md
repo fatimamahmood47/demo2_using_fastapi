@@ -345,7 +345,8 @@ only the back end is completed, front is in construction.
 6. point to root directory write command to start fast api locally
     ```
     uvicorn app.main:app --reload
-    do not use this "uvicorn app.main:app --reload --port 8000" it is used for integration of demo1 ,demo2 and demo3
+    
+    do not use this line which in under inverted comma "uvicorn app.main:app --reload --port 8000" it is used for integration of demo1 ,demo2 and demo3
     ```
 
 7. open in browser to use endpoints
